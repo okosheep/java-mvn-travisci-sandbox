@@ -1,1 +1,1 @@
-# java-mvn-travisci-sandbox
+# Sandbox for Java and Maven project using TravisCI.
